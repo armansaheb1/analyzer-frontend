@@ -1,19 +1,43 @@
-# analyzerfront
+# Analyzer Frontend
 
-## Project setup
-```
-npm install
-```
+Frontend application for the Analyzer AI platform built with Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Overview
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Analyzer Frontend provides the user interface for content generation, news analysis, AI-powered workflows, and platform management.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Features
+
+- AI content generation interface
+- Dashboard and analytics
+- Authentication and user management
+- News and content management
+- Responsive user interface
+- REST API integration
+
+## Tech Stack
+
+- Vue.js
+- JavaScript
+- Axios
+- REST API
+
+## Architecture
+
+Vue.js Frontend
+
+↓
+
+Django REST API
+
+↓
+
+OpenAI / Gemini Services
+
+↓
+
+PostgreSQL
+
+## Status
+
+Production-ready freelance project.
